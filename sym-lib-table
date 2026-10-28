@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "usb-lin-card") (type "KiCad") (uri "${KIPRJMOD}/usb-lin-card.kicad_sym") (options "") (descr ""))
+	(lib (name "Connector_Wurth_WR-TBL") (type "KiCad") (uri "${KIPRJMOD}/lib/Connector_Wurth_WR-TBL.kicad_sym") (options "") (descr ""))
+)
