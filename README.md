@@ -85,6 +85,9 @@ Standard USB-B receptacle. The connector shield is tied to USB ground.
 ## License
 
 Copyright (c) 2026 Olli Kokko <https://github.com/oko256/usb-lin-card-hw>
+
 SPDX-License-Identifier: CERN-OHL-P-2.0
 
 This KiCad project is licensed under the CERN-OHL-P-2.0 license. See LICENSE file for details.
+
+Some symbols, footprints, and 3D models in this project are from Würth Elektronik. See https://github.com/WurthElektronik/KiCad-Library for more info.
